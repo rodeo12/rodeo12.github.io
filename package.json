@@ -1,20 +1,15 @@
 {
-  "name": "appy26.github.io",
+  "name": "rocklee04.github.io",
   "version": "1.0.0",
   "description": "",
-  "main": "scripts.js",
+  "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
-  },
-  "repository": {
-    "type": "git",
-    "url": "git+https://github.com/Appy26/Appy26.github.io.git"
   },
   "keywords": [],
   "author": "",
   "license": "ISC",
-  "bugs": {
-    "url": "https://github.com/Appy26/Appy26.github.io/issues"
-  },
-  "homepage": "https://github.com/Appy26/Appy26.github.io#readme"
+  "dependencies": {
+    "github-calendar": "^2.3.2"
+  }
 }
