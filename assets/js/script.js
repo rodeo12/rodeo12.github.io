@@ -42,7 +42,7 @@ $(document).ready(function () {
 });
 // <!-- typed js effect starts -->
 var typed = new Typed(".typing-text", {
-    strings: ["Full-Stack Web Developer"],
+    strings: ["Full-Stack Web Developer","Problem Solver"],
     loop: true,
     typeSpeed: 50,
     backSpeed: 25,
@@ -152,11 +152,11 @@ const resume1 = document.getElementById("resume-button-1")
 const resume2 = document.getElementById("resume-button-2")
 
 resume1.addEventListener('click', () => {
-    window.open("https://drive.google.com/file/d/1Yf41S79N3i6_lpGCEFaiVXgrF-FpGRma/view?usp=sharing", "_blank");
+    window.open("https://drive.google.com/file/d/1AAMCWcjKCU5VH8-pSteoH8h6-tszVKOv/view?usp=sharing", "_blank");
 })
 
 resume2.addEventListener('click', () => {
-    window.open("https://drive.google.com/file/d/1Yf41S79N3i6_lpGCEFaiVXgrF-FpGRma/view?usp=sharing", "_blank");
+    window.open("https://drive.google.com/file/d/1AAMCWcjKCU5VH8-pSteoH8h6-tszVKOv/view?usp=sharing", "_blank");
 })
 
 

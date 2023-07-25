@@ -1,32 +1,45 @@
 [
     {
-      "name": "Ajio Clone",
-      "desc": "A website, where users can grab different clothing styles, footwear, and accessories.",
-      "image": "ajio",
+      "name": "Kindmeal Clone",
+      "desc": "A Malasiyan food website that provides information regarding restaurant, food & coupons.",
+      "image": "kindmeal",
       "stacks":"js,html,css,git,netlify,vscode",
       "links": {
-        "view": "https://stylio.netlify.app/",
-        "code": "https://github.com/rocklee04/abrupt-kitty-9277"
+        "view": "https://legit-planes-7224.netlify.app",
+        "code": "https://github.com/rodeo12/-legit-planes-7224"
       }    
     },
     {
-        "name": "Charlie Tyrwhitt Clone",
-        "desc": "A clothing website where users can buy men's formal attires.",
-        "image": "charlie",
+        "name": "Meet Easy",
+        "desc": "Its a communication app similar to Zoom that allows users to connect with video,audio & chat",
+        "image": "MeetEasy",
         "stacks":"js,html,css,git,netlify,vscode",
         "links": {
-          "view": "https://astonishing-blancmange-e5e07e.netlify.app/",
-          "code": "https://github.com/rocklee04/habitual-oatmeal-3228"
+          "view": "https://meeteasy.netlify.app/",
+          "code": "https://github.com/rodeo12/MeetEasy-Project"
         }    
       },
       {
-        "name": "Apple Clone",
-        "desc": "A clone of Apple website Home page,where users can find world class range of apple products ",
-        "image": "apple",
+        "name": "David Bridal Clone",
+        "desc": "Clone of David's Bridal - Your One-Stop Wedding Shopping Solution 💍👰 Welcome to our clone of David's Bridal, where we bring the same elegance, style. ",
+        "image": "david",
         "stacks":"js,html,css,git,netlify,vscode",
         "links": {
-          "view": "https://rad-gecko-edeb04.netlify.app/",
-          "code": "https://github.com/rocklee04/pink-cactus-3310"
+          "view": "https://grand-cupcake-d7b423.netlify.app/",
+          "code": "https://github.com/rodeo12/David-Bridal-Clone"
+        }    
+      },
+
+      {
+        "name": "Heal Hub",
+        "desc": "It is a health app that helps in booking appointment wiht doctors",
+        "image": "healhub",
+        "stacks":"js,html,css,git,netlify,vscode",
+        "links": {
+          "view": "https://rad-squirrel-f6507f.netlify.app/",
+          "code": "https://github.com/rodeo12/adaptable-oven-8035"
         }    
       }
+
+      
 ]    
