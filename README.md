@@ -1,5 +1,5 @@
-# Bhavya022.github.io 
-Bhavya Khatri Portfolio 🌟
+# rodeo12.github.io 
+Mayank Bhandari Portfolio 🌟
 
 Introduction
 Welcome to my GitHub portfolio! This repository serves as a showcase of my projects, contributions, and skills as a developer. Here, you'll find a collection of my best works, open-source contributions, and personal projects.
