@@ -18,5 +18,5 @@ Web Development: List of web development technologies you are skilled in.
 Database: List of databases you are familiar with.
 Other: Any other skills or technologies you want to showcase.
 Contact
-For inquiries, collaboration opportunities, or just to say hello, feel free to reach out to me at dnd88778@gmail.com or connect with me on LinkedIn at bhavya22.
+For inquiries, collaboration opportunities, or just to say hello, feel free to reach out to me at mayankthakur1294@gmail.com or connect with me on LinkedIn at www.linkedin.com/in/mayank-bhandari-b29a76100 .
 
